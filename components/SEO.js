@@ -1,4 +1,4 @@
-'use client';
+/*'use client';
 import Head from "next/head";
 import { usePathname } from "next/navigation";
 
@@ -37,4 +37,4 @@ export default function SEO({title, description}) {
 //deployment
 "dev": "node server.js",
 "start": "NODE_ENV=production node server.js",
-*/
+*/*/
