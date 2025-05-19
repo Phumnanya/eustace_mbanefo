@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://solarscript.com.ng
+
+# Sitemaps
+Sitemap: https://solarscript.com.ng/sitemap.xml
