@@ -1,14 +1,12 @@
 {
-  "name": "solarscript_with_nextjs",
+  "name": "eustace_mbanefo_portfolio_website",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postbuild": "next-sitemap",
-    "export": "next export"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
